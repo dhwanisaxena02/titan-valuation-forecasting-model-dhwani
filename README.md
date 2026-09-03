@@ -101,4 +101,4 @@ Independent Equity Research Project
 
 ---
 
-*This project is for educational and portfolio purposes and does not constitute investment advice.*
+*This project is for educational purposes and does not constitute investment advice.*
