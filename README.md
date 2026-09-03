@@ -1,6 +1,6 @@
-# Titan Company Ltd. — Equity Research & Valuation
+# Titan Company Ltd. - Equity Research & Valuation
 
-### Financial Forecasting • Valuation • Scenario Analysis • Investment Thesis
+### Forecasting • Valuation • Scenario Analysis • Investment Thesis
 
 An independent equity research project on **Titan Company Ltd.**, combining a detailed Excel-based financial model with a one-page institutional-style equity research report.
 
