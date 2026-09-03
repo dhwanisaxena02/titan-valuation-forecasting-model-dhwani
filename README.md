@@ -81,7 +81,7 @@ A dedicated analysis of Titan's inventory financing and gold-hedging framework, 
 
 Five-year financial forecasting and valuation model covering historical analysis, assumptions, working capital, WACC, DCF, relative valuation and scenario analysis.
 
-### [Equity Research Report](./Dhwani_Saxena_Titan_Equity_Research_Report.pdf)
+### [Equity Research Report](./Titan_Investment_Research_Dhwani_Saxena.pdf)
 
 One-page institutional-style investment thesis summarising the business, financial analysis, segment economics, treasury strategy, valuation, catalysts, risks and investment view.
 
