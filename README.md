@@ -1,27 +1,104 @@
-Titan Company — Financial Forecasting & Valuation Model
+# Titan Company Ltd. — Equity Research & Valuation
 
-An Excel-based financial model developed to analyze Titan Company's historical financial performance and build forward-looking financial forecasts.
+### Financial Forecasting • Valuation • Scenario Analysis • Investment Thesis
 
-Model includes
+An independent equity research project on **Titan Company Ltd.**, combining a detailed Excel-based financial model with a one-page institutional-style equity research report.
 
-Historical financial statement analysis
+The project evaluates Titan's historical performance, operating drivers, capital efficiency, working-capital intensity, treasury strategy and valuation to arrive at an investment view.
 
-Five-year financial forecasting
+---
 
-Revenue and profitability assumptions
+## Investment View
 
-Scenario analysis
+**HOLD**
 
-Working capital and ROIC analysis
+| Metric | Value |
+|---|---:|
+| Target Price | ₹5,088 |
+| CMP | ₹5,169 |
+| Upside / (Downside) | -1.56% |
+| Target Period | 12 Months |
+| Valuation Date | 28 August 2026 |
 
-Cash-flow analysis
+### Investment Thesis
 
-WACC calculation
+Titan is an exceptional growth and return franchise, but its premium market valuation already prices in much of its near-term structural opportunity.
 
-DCF valuation
+While the underlying business remains strong, margin normalization, elevated inventory intensity and increasing financial leverage constrain the margin of safety at the current valuation.
 
-Relative valuation
+---
 
-Tools: Microsoft Excel
+## Key Areas of Analysis
 
-Company: Titan Company Ltd.
+### Financial Performance
+- Historical financial statement analysis
+- Revenue and profitability trends
+- Margin analysis
+- ROCE and capital efficiency
+
+### Operating & Capital Analysis
+- Working-capital intensity
+- Cash conversion
+- DuPont analysis
+- Segment economics
+- Asset utilisation
+- Financial leverage
+
+### Valuation
+- Five-year financial forecasts
+- P/E valuation
+- DCF valuation
+- Trading comparables
+- Bear / Base / Bull scenario analysis
+- Probability-weighted valuation
+
+### Treasury Analysis
+
+A dedicated analysis of Titan's inventory financing and gold-hedging framework, including:
+
+- Gold Metal Loans (GMLs)
+- Commercial Paper and working-capital financing
+- Natural hedging of GML exposure
+- Commodity futures used for spot-market purchases
+- Interaction between inventory growth, financing and cash conversion
+
+---
+
+## Key Investment Insights
+
+- **High-growth, high-return franchise:** Revenue compounded strongly over FY22–FY26, supported by the Jewellery business.
+- **Revenue is growing faster than earnings:** Margin recovery remains important for further earnings outperformance.
+- **Growth is increasingly capital intensive:** Rising inventory requirements have increased working-capital needs and financing dependence.
+- **ROE is increasingly leverage-driven:** DuPont analysis shows rising financial leverage contributing materially to ROE.
+- **Segment economics matter:** Jewellery remains the core value engine, while Watches and CaratLane provide additional growth and profitability potential.
+- **Valuation leaves limited cushion:** Base-case valuation is broadly reflected in the market price, while downside expands materially under weaker operating assumptions.
+
+---
+
+## Files
+
+### [Financial Model](./Titan_Company_Valuation_Model.xlsx)
+
+Five-year financial forecasting and valuation model covering historical analysis, assumptions, working capital, WACC, DCF, relative valuation and scenario analysis.
+
+### [Equity Research Report](./Dhwani_Saxena_Titan_Equity_Research_Report.pdf)
+
+One-page institutional-style investment thesis summarising the business, financial analysis, segment economics, treasury strategy, valuation, catalysts, risks and investment view.
+
+---
+
+## Tools
+
+**Microsoft Excel**
+
+---
+
+## Author
+
+**Dhwani Saxena**
+
+Independent Equity Research Project
+
+---
+
+*This project is for educational and portfolio purposes and does not constitute investment advice.*
